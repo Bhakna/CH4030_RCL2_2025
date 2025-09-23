@@ -13,7 +13,7 @@ clear variables;
 % NOTATIONS USED
 
 % NC -> no catalyst
-% C -> with catalyst
+% WC -> with catalyst
 
 % A -> NaOH
 % B -> CH3COO-C4H9
